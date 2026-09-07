@@ -11,4 +11,5 @@ Copy the `<li>` block in `index.html` and point it at the game's own Pages URL.
 
 Currently listed:
 
-- [Nine Lives](https://ClaudeWrapper56472.github.io/pwa-sudoku-like/) — [ClaudeWrapper56472/pwa-sudoku-like](https://github.com/ClaudeWrapper56472/pwa-sudoku-like)
+- [Nine Lives](https://ClaudeWrapper56472.github.io/pwa-nine-lives/) — [ClaudeWrapper56472/pwa-nine-lives](https://github.com/ClaudeWrapper56472/pwa-nine-lives)
+- [Cat Doku](https://ClaudeWrapper56472.github.io/pwa-cat-doku/) — [ClaudeWrapper56472/pwa-cat-doku](https://github.com/ClaudeWrapper56472/pwa-cat-doku)
