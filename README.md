@@ -21,4 +21,5 @@ Currently listed:
 - [Depot Rush](https://ClaudeWrapper56472.github.io/pwa-traffic-fever/) — [ClaudeWrapper56472/pwa-traffic-fever](https://github.com/ClaudeWrapper56472/pwa-traffic-fever)
 - [Jade Match](https://ClaudeWrapper56472.github.io/pwa-mahjong/) — [ClaudeWrapper56472/pwa-mahjong](https://github.com/ClaudeWrapper56472/pwa-mahjong)
 - [Meadowbrook](https://ClaudeWrapper56472.github.io/pwa-township/) — [ClaudeWrapper56472/pwa-township](https://github.com/ClaudeWrapper56472/pwa-township)
+- [Merge Sort](https://ClaudeWrapper56472.github.io/pwa-merge-sort/) — [ClaudeWrapper56472/pwa-merge-sort](https://github.com/ClaudeWrapper56472/pwa-merge-sort)
 - [Trio Stack](https://ClaudeWrapper56472.github.io/pwa-cubeaway/) — [ClaudeWrapper56472/pwa-cubeaway](https://github.com/ClaudeWrapper56472/pwa-cubeaway)
